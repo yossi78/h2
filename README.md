@@ -28,7 +28,7 @@ Password =
 OPEN UI IN BROWSER
 -------------------------------------------------------------------------------------------------------------
 #) Open the browser in the following url:
-http://localhost:8080/
+http://localhost:8080/h2
 
 
 
